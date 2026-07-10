@@ -6,6 +6,9 @@
   font-size: 20px;
   transition: 0.3s;
   }
+  body{
+    background-color: #ffff00;
+  }
 }
 
 body{

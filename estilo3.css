@@ -43,3 +43,15 @@
     width: 100%;
     height: auto;
 }
+
+@media screen and (max-width: 800px){
+  #direita {
+    margin-left: 0px;
+  }
+
+  #a{
+  flex-direction: column;
+  
+  }
+
+}

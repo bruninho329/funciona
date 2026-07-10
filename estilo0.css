@@ -1,21 +1,8 @@
-@media screen and (max-width: 768px)
-{
-  .menu-links a {
-  text-decoration: none;
-  /* Remove sublinhado */
-  color: rgb(255, 255, 255);
-  font-size: 20px;
-  transition: 0.3s;
-  }
-  body{
-    background-color: #ffff00;
-  }
-}
 
 body{
     margin: 0;
     padding: 0;
-    background-color: aquamarine;
+    background-color: rgb(127, 255, 212);
 }
 .logo{
 height: 90px;
@@ -51,11 +38,22 @@ height: 90px;
 .menu-links a {
   text-decoration: none;
   /* Remove sublinhado */
-  color: rgb(0, 254, 63);
+  color: rgb(0, 255, 234);
   font-size: 30px;
   transition: 0.3s;
 }
 .menu-links a:hover {
   color: #ffff00;
   /* Cor ao passar o mouse */
+}
+@media screen and (max-width: 800px) {
+.menu-links a {
+  text-decoration: none;
+  /* Remove sublinhado */
+  color: rgb(0, 247, 255);
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+
 }

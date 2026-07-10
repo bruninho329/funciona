@@ -51,7 +51,7 @@ height: 90px;
 .menu-links a {
   text-decoration: none;
   /* Remove sublinhado */
-  color: rgb(0, 254, 254);
+  color: rgb(0, 254, 63);
   font-size: 30px;
   transition: 0.3s;
 }

@@ -7,11 +7,13 @@
   flex-wrap: wrap;
   flex-direction:column;
   }
-  .card {
+   
+  #card1.card,
+  #card2.card,
+  #card3.card {
     width: 700px;
     height: 400px;
   }
-
 
 }
 
@@ -26,7 +28,7 @@
 
 
     #card1.card {
-        background-color: #ff0000;
+        background-color: #ffffff;
       width: 300px;
       height: 400px;
       border-radius: 24px;

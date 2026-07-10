@@ -16,7 +16,7 @@
     height: 400px;
   }
   body{
-    background: red;
+    background: red !important;
   }
 }
 #a{

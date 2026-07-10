@@ -1,4 +1,5 @@
-@media (max-width: 768px){
+@media screen and (max-width: 768px)
+{
   .menu-links a {
   text-decoration: none;
   /* Remove sublinhado */

@@ -28,7 +28,7 @@ height: 90px;
   list-style: none;
   display: flex;
   /* Deixa os links em linha */
-
+  margin-right: 50px;
 }
 .menu-links li {
   margin-left: 20px;

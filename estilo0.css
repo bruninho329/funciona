@@ -1,3 +1,13 @@
+@media (max-width: 768px){
+  .menu-links a {
+  text-decoration: none;
+  /* Remove sublinhado */
+  color: rgb(0, 254, 254);
+  font-size: 20px;
+  transition: 0.3s;
+  }
+}
+
 body{
     margin: 0;
     padding: 0;

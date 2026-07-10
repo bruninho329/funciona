@@ -1,16 +1,4 @@
-@media (max-width: 768px){
 
-  /* #a{
-    margin-top: 100px;
-    display: flex;
-    gap: 500px;
-    margin-left: 0;
-    flex-direction: column;
-    align-items: center;
-  } */
-  
-  
-}
 
 #a{
   margin-top: 100px;
@@ -169,3 +157,17 @@
     #card3 .card-button:hover {
       background: #0056b3;
     }
+
+    @media (max-width: 768px){
+
+  #a{
+    margin-top: 100px;
+    display: flex;
+    gap: 500px;
+    margin-left: 0;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+}

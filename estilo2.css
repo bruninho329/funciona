@@ -6,7 +6,12 @@
   margin-left: 250px;
   flex-wrap: wrap;
   flex-direction:column;
-}
+  }
+  .card {
+    width: 90%;
+    height: 400px;
+  }
+
 
 }
 
